@@ -1,0 +1,16 @@
+C:\C#_Программы_Разработка\2015\Order\Order\Order\bin\Debug\Order.exe
+C:\C#_Программы_Разработка\2015\Order\Order\Order\bin\Debug\Order.pdb
+C:\C#_Программы_Разработка\2015\Order\Order\Order\obj\Debug\Order.csprojResolveAssemblyReference.cache
+C:\C#_Программы_Разработка\2015\Order\Order\Order\obj\Debug\Order.Form1.resources
+C:\C#_Программы_Разработка\2015\Order\Order\Order\obj\Debug\Order.Properties.Resources.resources
+C:\C#_Программы_Разработка\2015\Order\Order\Order\obj\Debug\Order.csproj.GenerateResource.Cache
+C:\C#_Программы_Разработка\2015\Order\Order\Order\obj\Debug\Order.exe
+C:\C#_Программы_Разработка\2015\Order\Order\Order\obj\Debug\Order.pdb
+E:\Order\Order\Order\obj\Debug\Order.exe
+E:\Order\Order\Order\obj\Debug\Order.pdb
+E:\Order\Order\Order\bin\Debug\Order.exe
+E:\Order\Order\Order\bin\Debug\Order.pdb
+E:\Order\Order\Order\obj\Debug\Order.csprojResolveAssemblyReference.cache
+E:\Order\Order\Order\obj\Debug\Order.Form1.resources
+E:\Order\Order\Order\obj\Debug\Order.Properties.Resources.resources
+E:\Order\Order\Order\obj\Debug\Order.csproj.GenerateResource.Cache
